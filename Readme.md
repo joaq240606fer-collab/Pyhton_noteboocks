@@ -5,3 +5,5 @@ This repository is dedicated to cataloging a collection of Jupyter Notebooks cov
 ## Índice
 
 - **Tema 7 — Strings en Python**  ====================================================> ./Strings
+-  **Tema 6 — valores de referencia a objetos**  ====================================================> ./variables
+
